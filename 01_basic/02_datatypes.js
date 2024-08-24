@@ -7,6 +7,8 @@ console.log("mahi")
 let name = "mahi"
 let ate = 20
 let isLoggedIn = false;
+let mani;
+
 
 
 // number 2 to ki power 53
@@ -23,6 +25,7 @@ console.log(typeof "mahi");
 
 console.log(typeof undefined);   // undefined
 console.log(typeof null) // object
+console.log(mani); //undefined
 
 
 
